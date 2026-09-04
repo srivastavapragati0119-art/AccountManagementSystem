@@ -1,0 +1,13 @@
+=====ACCOUNI MANAGEMENT SYSTEM=====
+1. Create Account
+2. View All Accounts
+3. Deposit Money
+4. Withdraw Money
+5. Check Balance
+6. Account Details
+7. Exit
+Enter your choice: 1
+Enter Account Number: 34999007
+Enter Account Holder Name: Pragati
+Enter Initial Balance: 700000
+Account created successfully!
